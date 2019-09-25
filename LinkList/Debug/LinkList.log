@@ -1,0 +1,4 @@
+﻿  Queue.c
+d:\visual studio project\linklist\linklist\queue.c(54): warning C4033: “FrontQueue”必须返回值
+d:\visual studio project\linklist\linklist\queue.c(57): warning C4715: “FrontQueue”: 不是所有的控件路径都返回值
+  LinkList.vcxproj -> D:\Visual Studio Project\LinkList\Debug\LinkList.exe
